@@ -10,6 +10,8 @@ Learn the principles and best practices for writing maintainable test applicatio
 4.  Testing GraphQL endpoint (mocking)
 5.  Visual Testing with [Playwright](https://playwright.dev/)
 
+Bonus: Test Coverage with [Istanbul](https://istanbul.js.org/)
+
 ## Owner
 
 @ticidesign

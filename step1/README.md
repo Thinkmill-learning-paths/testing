@@ -60,3 +60,5 @@ test(title, () => {
 ```
 
 Then run this code with `node <file name>.js`
+
+🎉 Congratulations! You just learned how testing frameworks and assertion libraries work by building our own, simple version of each.
