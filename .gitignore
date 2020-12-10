@@ -26,6 +26,7 @@ validation-report.json
 validation-status.json
 npm-debug.log
 package-lock.json
+yarn.lock
 
 # editor
 *.sublime-project

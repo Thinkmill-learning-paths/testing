@@ -1,21 +1,23 @@
 {
-	"name": "TODO:name-of-path",
-	"description": "TODO:description",
+	"name": "testing-in-javascript",
+	"description": "Learn the principles and best practices for writing maintainable test applications to catch errors before your product reaches the end user.",
 	"version": "1.0.0",
 	"private": true,
-	"author": {},
+	"author": {
+		"name": "Ticiana de Andrade"
+	},
 	"contributors": [],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/Thinkmill-learning-paths/TODO:repo-name.git"
+		"url": "git://github.com/Thinkmill-learning-paths/testing.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Thinkmill-learning-paths/TODO:repo-name/issues"
+		"url": "https://github.com/Thinkmill-learning-paths/testing/issues"
 	},
 	"licenses": [
 		{
 			"type": "GPL-3.0",
-			"url": "https://github.com/Thinkmill-learning-paths/TODO:repo-name/blob/main/LICENSE"
+			"url": "https://github.com/Thinkmill-learning-paths/testing/blob/main/LICENSE"
 		}
 	],
 	"license": "GPL-3.0",
