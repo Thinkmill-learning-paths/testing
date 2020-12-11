@@ -42,12 +42,14 @@ test('isPasswordAllowed only allows some passwords', () => {
 
 **Bonus01:** Try to refactor your test using [describe](https://jestjs.io/docs/en/api#describename-fn), create and array with `allowedPasswords` and `disallowedPasswords` and add more tests.
 
-**Bonus02:** Impletement an algorithm to solve the [FizzBuzz](FizzBuzz.md) problem and write unit tests for your solution.
+**Bonus02:** Impletement an algorithm to solve the [FizzBuzz](./fizz-buzz) problem and write unit tests for your solution.
 
 #### Step 03 - Testing Functions with Side Effects
 
-Go to the [Thumb War folder](./thumb-war) and create unit tests for the fucntion and try to use [Mock Functions](https://jestjs.io/docs/en/mock-function-api#mockfnmockcalls) and [spyOn](https://jestjs.io/docs/en/jest-object#jestspyonobject-methodname).
+A thumb war is a game played by two players in which the thumbs are used to simulate fighting. Check out the implementation in JavaScript for this game at the [Thumb War folder](./thumb-war) and create unit tests.
 
-**Bonus02:** Impletement an algorithm that saves a file to the system using node and write unit tests for your solution.
+💡 Hint: Have a look at [Mock Functions](https://jestjs.io/docs/en/mock-function-api#mockfnmockcalls) and [spyOn](https://jestjs.io/docs/en/jest-object#jestspyonobject-methodname).
+
+**Bonus02:** Create unit tests for an algorithm that clean profanity words from any text file and saves as a new and clean file to the system using node. Go to [Swear Words](./swear-words)
 
 #### Step 04 - Testing Functions in a Composition
