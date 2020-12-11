@@ -1,0 +1,17 @@
+{
+  "name": "nsfw",
+  "version": "0.0.1",
+  "description": "Replacing profanity words of a text file",
+  "main": "index.js",
+  "author": "Ticiana de Andrade <ticipp@gmail.com>",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "start": "node index.js"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

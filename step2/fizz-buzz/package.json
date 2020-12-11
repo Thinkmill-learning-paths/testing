@@ -1,0 +1,16 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz is a classic programming task",
+  "main": "fizzbuzz.js",
+  "author": "Ticiana de Andrade <ticipp@gmail.com>",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "start": "node fizzbuzz.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
