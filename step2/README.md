@@ -46,4 +46,8 @@ test('isPasswordAllowed only allows some passwords', () => {
 
 #### Step 03 - Testing Functions with Side Effects
 
+Go to the [Thumb War folder](./thumb-war) and create unit tests for the fucntion and try to use [Mock Functions](https://jestjs.io/docs/en/mock-function-api#mockfnmockcalls) and [spyOn](https://jestjs.io/docs/en/jest-object#jestspyonobject-methodname).
+
+**Bonus02:** Impletement an algorithm that saves a file to the system using node and write unit tests for your solution.
+
 #### Step 04 - Testing Functions in a Composition
