@@ -2,12 +2,7 @@ import React, { useState } from 'react';
 import DeleteIcon from '@material-ui/icons/Delete';
 import CheckBoxOutlineBlankIcon from '@material-ui/icons/CheckBoxOutlineBlank';
 import CheckBoxIcon from '@material-ui/icons/CheckBox';
-import FormGroup from '@material-ui/core/FormGroup';
-import FormControlLabel from '@material-ui/core/FormControlLabel';
-import Switch from '@material-ui/core/Switch';
-
 import './App.css';
-import { FormControl } from '@material-ui/core';
 
 const Todo = ({ todo, index, completeTodo, removeTodo }) => {
 	return (
@@ -119,7 +114,7 @@ const App = () => {
 							/>
 						))}
 						<div className={sortByStatus ? 'togglebutton togglebutton-checked' : 'togglebutton'}>
-							<label for="name">
+							<label htmlFor="name">
 								<span className="togglebutton-label">Move done items at the end?</span>
 								<span className="tooglebutton-box"></span>
 							</label>
