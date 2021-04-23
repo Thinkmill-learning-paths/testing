@@ -25,4 +25,6 @@ Bonus: Test Coverage with [Istanbul](https://istanbul.js.org/)
 
 [An Overview of JavaScript Testing in 2020](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870)
 
+[APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis
+
 ## Graduates
